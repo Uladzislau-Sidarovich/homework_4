@@ -1,0 +1,15 @@
+/Users/vladsidorovic/Documents/homework_4/task029/bin/Debug/net7.0/task029
+/Users/vladsidorovic/Documents/homework_4/task029/bin/Debug/net7.0/task029.deps.json
+/Users/vladsidorovic/Documents/homework_4/task029/bin/Debug/net7.0/task029.runtimeconfig.json
+/Users/vladsidorovic/Documents/homework_4/task029/bin/Debug/net7.0/task029.dll
+/Users/vladsidorovic/Documents/homework_4/task029/bin/Debug/net7.0/task029.pdb
+/Users/vladsidorovic/Documents/homework_4/task029/obj/Debug/net7.0/task029.csproj.AssemblyReference.cache
+/Users/vladsidorovic/Documents/homework_4/task029/obj/Debug/net7.0/task029.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladsidorovic/Documents/homework_4/task029/obj/Debug/net7.0/task029.AssemblyInfoInputs.cache
+/Users/vladsidorovic/Documents/homework_4/task029/obj/Debug/net7.0/task029.AssemblyInfo.cs
+/Users/vladsidorovic/Documents/homework_4/task029/obj/Debug/net7.0/task029.csproj.CoreCompileInputs.cache
+/Users/vladsidorovic/Documents/homework_4/task029/obj/Debug/net7.0/task029.dll
+/Users/vladsidorovic/Documents/homework_4/task029/obj/Debug/net7.0/refint/task029.dll
+/Users/vladsidorovic/Documents/homework_4/task029/obj/Debug/net7.0/task029.pdb
+/Users/vladsidorovic/Documents/homework_4/task029/obj/Debug/net7.0/task029.genruntimeconfig.cache
+/Users/vladsidorovic/Documents/homework_4/task029/obj/Debug/net7.0/ref/task029.dll
